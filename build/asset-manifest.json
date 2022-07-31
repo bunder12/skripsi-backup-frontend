@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15f9a4de.css",
+    "main.js": "/static/js/main.0adc37c0.js",
+    "static/media/pantai-penyusuk.png": "/static/media/pantai-penyusuk.230e651506248bf3e876.png",
+    "static/media/airterjun.png": "/static/media/airterjun.378d79a63dfd76881eb4.png",
+    "static/media/pasir_padi.png": "/static/media/pasir_padi.003e584e7fe2a47db41c.png",
+    "static/media/wisma-ranggam.png": "/static/media/wisma-ranggam.3edb42a94e39c4b78a53.png",
+    "static/media/beach.png": "/static/media/beach.eb743eb9e1f103af88e4.png",
+    "static/media/ilustrasi2.png": "/static/media/ilustrasi2.56839158dd7c621f04f4.png",
+    "static/media/sejarah.png": "/static/media/sejarah.ed6fad799921e0b040e2.png",
+    "static/media/danau.png": "/static/media/danau.6d35702ba3619565bd04.png",
+    "static/media/ilustrasi.png": "/static/media/ilustrasi.6cd59564fdb1cbe2b56f.png",
+    "static/media/algo.svg": "/static/media/algo.85267d4bfd7fb510ac995036454e8eb5.svg",
+    "static/media/people.svg": "/static/media/people.ca6efbf7c46f620d26fdaec4d3add676.svg",
+    "static/media/fitur.svg": "/static/media/fitur.101e1f47ab56fa90ec950689f60f678b.svg",
+    "static/media/join.svg": "/static/media/join.750d67d67d4f1f63aae7760ea8db2a74.svg",
+    "static/media/destination.svg": "/static/media/destination.474a46f5061516460a255cc13b5b876a.svg",
+    "static/media/gratis.svg": "/static/media/gratis.bce6a5cc1f430e74e2686f14271dc5e1.svg",
+    "static/media/map.svg": "/static/media/map.b14fa8683cf24f40f9e7b1564f6bc785.svg",
+    "static/media/easy.svg": "/static/media/easy.7a4168536e2b2166bbc5de18019be2a1.svg",
+    "static/media/logo.png": "/static/media/logo.edda27e3e55f45e56a7b.png",
+    "static/media/like.svg": "/static/media/like.07ac0d04b12eba19de79c7e08f566582.svg",
+    "static/media/logoNav.svg": "/static/media/logoNav.ef694e1ae29bf34a795819e0a6536635.svg",
+    "static/media/logoFooter.svg": "/static/media/logoFooter.89d3e637f14e32724bb6d7da72b4dfa7.svg",
+    "static/media/icon.svg": "/static/media/icon.b198601e1c85dcad23d4ca9e167b69e4.svg",
+    "static/media/google.svg": "/static/media/google.9887eb8eb43729cb99f402cfa0de3c44.svg",
+    "index.html": "/index.html",
+    "static/media/kotak2.svg": "/static/media/kotak2.4a50f290f9acea7dd570f376cda37f8b.svg",
+    "static/media/kotak1.svg": "/static/media/kotak1.4303532a819943e3cac708c40650c68a.svg",
+    "main.15f9a4de.css.map": "/static/css/main.15f9a4de.css.map",
+    "main.0adc37c0.js.map": "/static/js/main.0adc37c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f9a4de.css",
+    "static/js/main.0adc37c0.js"
+  ]
+}
